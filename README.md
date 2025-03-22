@@ -74,6 +74,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AHMED1CB&repo=Realtime-Chat-App&theme=radical)](https://github.com/AHMED1CB/Realtime-Chat-App)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AHMED1CB&repo=codelink&theme=radical)](https://github.com/AHMED1CB/codelink)
 
-## Most Used Languages
+## Most Programming Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AHMED1CB&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AHMED1CB&theme=radical&i=4)
