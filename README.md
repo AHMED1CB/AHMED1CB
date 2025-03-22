@@ -3,13 +3,13 @@
 <div align="center">
  
  
-<a width="36" height="36" alt="JavaScript" >
+<a width="36" height="36" alt="bootstrap" >
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="php" />
 
 </a>
  
 
-<a width="36" height="36" alt="JavaScript" >
+<a width="36" height="36" alt="tailwind" >
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="php" />
 
 </a>
@@ -21,13 +21,13 @@
 </a>
 
 
-<a width="36" height="36" alt="JavaScript" >
+<a width="36" height="36" alt="vite" >
         <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="php" />
 
 </a>
 
 
-<a width="36" height="36" alt="JavaScript" >
+<a width="36" height="36" alt="react" >
         <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="php" />
 
 </a>
@@ -71,7 +71,8 @@
 
 ## GitHub Extra Pins
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AHMED1CB&repo=Softy&theme=radical)](https://github.com/AHMED1CB/Softy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AHMED1CB&repo=Realtime-Chat-App&theme=radical)](https://github.com/AHMED1CB/Realtime-Chat-App)
 
 ## Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AHMED1CB&hide_progress=false&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AHMED1CB&theme=radical)
