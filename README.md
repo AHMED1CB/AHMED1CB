@@ -1,13 +1,14 @@
-<h1 align="center">Hello There, I'm  Ahmed Hassan</h1>
-<h3 align="center">My Technologies</h3>
-<div align="center">
- 
+<h1 align="center">Hello, I'm  Ahmed Hassan</h1>
+<div>
+<h2 style="text-decoration:none">Technologies And Tools</h2>
+
+<h3 align="center">Frontend</h3>
+
  
 <a width="36" height="36" alt="bootstrap" >
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="php" />
-
 </a>
- 
+
 
 <a width="36" height="36" alt="tailwind" >
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="php" />
@@ -21,11 +22,14 @@
 </a>
 
 
-<a width="36" height="36" alt="vite" >
-        <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="php" />
-
+<a width="36" height="36" alt="redux" >
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="php" />
 </a>
 
+
+<a width="36" height="36" alt="redux" >
+        <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="php" />
+</a>
 
 <a width="36" height="36" alt="react" >
         <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="php" />
@@ -33,6 +37,8 @@
 </a>
 <br>
 <a> 
+<h3 align="center">Backend</h3>
+ 
 <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="php" />
 </a>
 
@@ -58,6 +64,19 @@
 <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="php" />
 </a>
 
+
+<h3 align="center">More Tools</h3>
+
+<a> 
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="php" />
+</a>
+
+
+<a> 
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="php" />
+</a>
+
+
 </div>
 
 
@@ -70,7 +89,6 @@
 
 
 ## GitHub Extra Pins
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AHMED1CB&repo=Softy&theme=radical)](https://github.com/AHMED1CB/Softy)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AHMED1CB&repo=Realtime-Chat-App&theme=radical)](https://github.com/AHMED1CB/Realtime-Chat-App)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AHMED1CB&repo=codelink&theme=radical)](https://github.com/AHMED1CB/codelink)
 
