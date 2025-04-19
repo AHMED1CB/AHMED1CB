@@ -55,7 +55,7 @@
 ## GitHub Stats 
 | Stats | 
 | --- | 
-| ![Stats](https://github-readme-stats.vercel.app/api?username=AHMED1CB&theme=radical&show_icons=true&count_private=true&hide_title=true&bg_color=00000000&border_color=00000000&i=4) 
+| ![Stats](https://github-readme-stats.vercel.app/api?username=AHMED1CB&theme=radical&show_icons=true&count_private=true&hide_title=true&bg_color=00000000&border_color=00000000) 
 
 
 
