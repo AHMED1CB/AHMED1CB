@@ -60,9 +60,13 @@
 
 
 ## GitHub Extra Pins
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AHMED1CB&repo=Realtime-Chat-App&theme=radical)](https://github.com/AHMED1CB/Realtime-Chat-App)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AHMED1CB&repo=codelink&theme=radical)](https://github.com/AHMED1CB/codelink)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AHMED1CB&repo=EasyPhp&theme=radical)](https://github.com/AHMED1CB/EasyPhp)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AHMED1CB&repo=bookstore&theme=radical)](https://github.com/AHMED1CB/bookstore)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AHMED1CB&repo=Realtime-Chat-App&theme=radical)](https://github.com/AHMED1CB/Realtime-Chat-App)
 
 ## Most Programming Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AHMED1CB&theme=radical&i=0)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AHMED1CB&theme=radical)
