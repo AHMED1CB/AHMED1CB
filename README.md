@@ -1,8 +1,8 @@
-<h1 align="center">Hello, I'm  Ahmed Hassan</h1>
+<h1 align='center'>Hello, I'm  Ahmed Hassan</h1>
 <div>
-<h2 style="text-decoration:none">Technologies And Tools</h2>
+<h2>Technologies And Tools</h2>
 
-<h3 align="center">Frontend</h3>
+<h3 >Frontend</h3>
 
  
 <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="php" />
@@ -23,7 +23,7 @@
 <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="php" />
 
 <br>
-<h3 align="center">Backend</h3>
+<h3 >Backend</h3>
  
 <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="php" />
 
@@ -40,7 +40,7 @@
 <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="php" />
 
 
-<h3 align="center">More Tools</h3>
+<h3 >More Tools</h3>
 
 <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="php" />
 
