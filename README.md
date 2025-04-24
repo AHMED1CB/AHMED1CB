@@ -1,53 +1,33 @@
-<h1 align='center'>Hello, I'm  Ahmed Hassan</h1>
-<div>
-<h2>Technologies And Tools</h2>
+# Hello, I'm  Ahmed Hassan  FullStack Web Developper
 
+## Technologies And Tools 
+
+<div>
 <h3 >Frontend</h3>
 
- 
-<img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="php" />
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="html" />
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="js" />
+<img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bs" />
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+<img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="react" />
+<img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="redux" />
 
 
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="php" />
-
- 
-
-<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="php" />
-
-
-<img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="php" />
-
-
-<img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="php" />
-
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="php" />
-
-<br>
 <h3 >Backend</h3>
  
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="php" />
-
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="php" />
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="njs" />
 <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="php" />
+<img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="laravel" />
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="python" />
 
-
-<img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="php" />
-
-
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="php" />
-
-
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="php" />
-
-
-<h3 >More Tools</h3>
-
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="php" />
-
-
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="php" />
-
-
+<h3 >Databases And Tools</h3>
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="git" />
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="github" />
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mdb" />
+<img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="sqlite" />
 </div>
 
 
