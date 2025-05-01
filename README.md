@@ -1,52 +1,32 @@
-# Hello, I'm  Ahmed Hassan  FullStack Web Developper
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Ahmed!&descAlign=50&descSize=30&animation=twinkling">
+</p>
 
-## Technologies And Tools 
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&width=435&lines=Welcome+to+my+Github+Profile+Page!" alt="Typing SVG" /></a> </p>
 
-<div>
-<h3 >Frontend</h3>
+<h2 align="center">⚡ STATS ⚡</h2>
 
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="html" />
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="js" />
-<img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bs" />
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-<img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="react" />
-<img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="redux" />
-
-
-<h3 >Backend</h3>
+<p align="center">
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=AHMED1CB&show_icons=true&theme=github_dark&&hide_border=true"> 
  
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="njs" />
-<img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="php" />
-<img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="laravel" />
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="python" />
+<img align="center" width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AHMED1CB&theme=github_dark&show_icons=true&bg_color=0111111"> 
 
-<h3 >Databases And Tools</h3>
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="git" />
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="github" />
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mdb" />
-<img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="sqlite" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=AHMED1CB&theme=onedark&no-frame=False&row=1&&margin-w=20&no-bg=true"> 
+
+
+
+</p>
+
+<br> <h2 align="center">⚙️ TECH STACK ⚙️ </h2>
+<br>
+<div align="center">
+  <a href="https://github-readme-tech-stack.vercel.app">
+    <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=LANGUAGES+%20AND%20+TOOLS&align=center&titleAlign=center&fontSize=20&lineHeight=10&lineCount=2&theme=ayu&width=450&bg=%25230B0E14&titleColor=%231c9eff&line1=php%2Cphp%2Cauto%3Bpython%2Cpython%2Cauto%3Bjavascript%2Cjavascript%2Cauto%3B&line2=git%2Cgit/github%2Cffffff%3Bcss%2Chtml/css%2Cauto%3B" alt="GitHub Readme Tech Stack" />
+  </a>
 </div>
 
-
-
-## GitHub Stats 
-| Stats | 
-| --- | 
-| ![Stats](https://github-readme-stats.vercel.app/api?username=AHMED1CB&theme=radical&show_icons=true&count_private=true&hide_title=true&bg_color=00000000&border_color=00000000&i=2) 
-
-
-
-## GitHub Extra Pins
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AHMED1CB&repo=codelink&theme=radical)](https://github.com/AHMED1CB/codelink)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AHMED1CB&repo=EasyPhp&theme=radical)](https://github.com/AHMED1CB/EasyPhp)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AHMED1CB&repo=bookstore&theme=radical)](https://github.com/AHMED1CB/bookstore)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AHMED1CB&repo=Realtime-Chat-App&theme=radical)](https://github.com/AHMED1CB/Realtime-Chat-App)
-
-## Most Programming Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AHMED1CB&theme=radical)
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2"> 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2"> 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2"> 
+</p>
